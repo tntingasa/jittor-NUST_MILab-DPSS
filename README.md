@@ -20,11 +20,11 @@
 ## 性能分析
 ![image](https://github.com/tntingasa/jittor-NUST_MILab-DPSS/blob/main/pic/%E5%9B%BE%E7%89%871.png)
 
-
 ## 致谢
-| 对参考的论文、开源库予以致谢，可选
 
-此项目基于论文 *A Style-Based Generator Architecture for Generative Adversarial Networks* 实现，部分代码参考了 [jittor-gan](https://github.com/Jittor/gan-jittor)。
+此项目基于论文 *Large-scale Unsupervised Semantic Segmentation* 实现，部分代码参考了
+[PASS](https://github.com/LUSSeg/PASS)
+[JSeg](https://github.com/Jittor/JSeg)。
 
 ## 注意事项
 
