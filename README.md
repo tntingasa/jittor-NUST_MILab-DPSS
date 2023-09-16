@@ -24,7 +24,9 @@
 
 此项目基于论文 *Large-scale Unsupervised Semantic Segmentation* 实现，部分代码参考了
 [PASS](https://github.com/LUSSeg/PASS)
-[JSeg](https://github.com/Jittor/JSeg)。
+[JSeg](https://github.com/Jittor/JSeg)
+[SAM_WSSS](https://github.com/cskyl/SAM_WSSS)
+[SAM_Jittor](https://github.com/PGSmall/segment-anything-jittor)。
 
 ## 注意事项
 
