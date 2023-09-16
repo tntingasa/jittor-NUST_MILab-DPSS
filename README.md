@@ -1,7 +1,7 @@
 
 # Jittor 大规模无监督语义分割模型 DPSS
 
-![主要结果](https://s3.bmp.ovh/imgs/2022/04/19/440f015864695c92.png)
+![主要结果](https://github.com/tntingasa/jittor-NUST_MILab-DPSS/blob/main/pic/%E5%9B%BE%E7%89%871.png)
 
 
 ## 简介
@@ -10,7 +10,7 @@
 
 ## 安装 
 本项目的安装细节请见 **[USAGE](USAGE.md)**
-```
+
 #### 数据集
 本项目的数据集下载地址：[数据集](https://github.com/LUSSeg/ImageNet-S#prepare-the-imagenet-s-dataset-with-one-command)
 
@@ -19,7 +19,7 @@
 
 ## 性能分析
 ![image](https://user-images.githubusercontent.com/20515144/196449430-5ac6a88c-24ea-4a82-8a45-cd244aeb0b3b.png)
-```
+
 
 ## 致谢
 | 对参考的论文、开源库予以致谢，可选
