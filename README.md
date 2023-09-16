@@ -1,7 +1,7 @@
 
 # Jittor 大规模无监督语义分割模型 DPSS
 
-![主要结果](https://github.com/tntingasa/jittor-NUST_MILab-DPSS/blob/main/pic/%E5%9B%BE%E7%89%871.png)
+![img](https://github.com/tntingasa/jittor-NUST_MILab-DPSS/blob/main/pic/%E5%9B%BE%E7%89%872.png)
 
 
 ## 简介
@@ -18,7 +18,7 @@
 本项目的模型模型下载地址为xxx，下载后放入目录 `<root>/weights/` 下。
 
 ## 性能分析
-![image](https://user-images.githubusercontent.com/20515144/196449430-5ac6a88c-24ea-4a82-8a45-cd244aeb0b3b.png)
+![image](https://github.com/tntingasa/jittor-NUST_MILab-DPSS/blob/main/pic/%E5%9B%BE%E7%89%871.png)
 
 
 ## 致谢
